@@ -1,3 +1,15 @@
+This implement forked from https://github.com/itsOwen
+
+Only purpose of setting up this reporsity, aims to avoid little friends cheated by Bad Profiteer those sell this amazing bot, which is just build up for fun.
+
+BTW, hoping that the official company can punish those who use cheat bot in FALLGUY game.
+
+***
+
+Ps. Those stupid bussiness man sell this implement at the price of ¥5.5/day  &&  ¥11/week  &&  $33/month  &&  $66/permanent. Shame on you !
+
+***
+
 Step 1. 
 	Download MelonLoader
 	Direct Download Link
